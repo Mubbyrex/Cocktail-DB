@@ -7,8 +7,8 @@
 
 Links
 
-- Solution URL: github.com/Mubbyrex/
-- Live Site URL:
+- Solution URL: github.com/Mubbyrex/Cocktail-DB
+- Live Site URL: cocktaildb008.netlify.app
 
 #### CRA Fix
 
